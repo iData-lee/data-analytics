@@ -1,0 +1,49 @@
+1. Start by reviewing the data.gov home page. What is this?
+
+This site is the homebase for all US Government Open Data
+
+2. Go to Most Viewed Datasets. How many datasets are listed?
+
+On the Most Viewed Dataset Page there are 20 listings on the first page but a total of 590,238 datasets are available on Data.gov
+
+3. Find the Topic Category for Human Health. Review the range of data sources
+available for this topic. Why do you think these were tagged with the Human Health
+category?
+
+There is a wide range and variety of topics in the Human Health topic. A lot has to do with death tolls, Covid-19, Food Nutrition, baby names and behavioral health etc. All of which has to do with the overall health and wellbeing of human life and health.
+
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you
+navigate to additional datasets from the USDA?
+ 
+To find related datasets there is a section of Tags that can be added for similar datasets.
+
+5. Go back to the data.gov home page. This time, click on Datasets by Organization.
+
+6. Try searching for your city, county, and state. What organizations are returned?
+
+Census 5 YEAR Estimates - Philadelphia, Crime Incidents, School District Performance, Philadelphia Neighborhoods, SEPTA Rideship Stats, License and Inspections Business Licenses
+
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food
+composition. Notice that the top three results are all datasets concerning nutrition
+information. Try searching the USDA page for nutrition. How does that affect your
+results?
+
+There is a slight difference in order and data given. It starts off with a MyPyramid Food Raw Data
+
+a) One of the tricky things about working with data is that sometimes the terminology
+used by a data source is not obvious. You may need to dig around and be creative
+to find what you’re looking for.
+
+8. Go back to the results for food composition, and click on FoodData Central. Review
+the catalog page for this data source, then click on the button for Visit Page. Take
+some time to explore the FoodData Central website.
+a) Try searching for butter, or any of your favorite foods. What kind of results do you
+get? What happens when you click on a result?
+
+My chosen food item was wild caught salmon after i entered the information was very detailed with sources that got even more clear on all the elements that goes into wild caught salmon. Very Cool!
+
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What
+kind of data can you find on this page? How big are these files? Where can you find
+more information on the data types available?
+
+All of the data within FoodData Central can be downloaded as Excl compatible CSV files, delimited ASCII files and in JavaScript. The files are rather large. You can find more information within the files and resources provided on the page as well.
