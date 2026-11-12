@@ -45,3 +45,26 @@ tip_prcnt = 20
 tax_prcnt = 8.25 
 total_cost = meal_cost + (meal_cost * tip_prcnt / 100) + (meal_cost * tax_prcnt / 100)
 print(f'Total meal cost = ${total_cost:.2f}')
+
+#Ask the user to find the average of three numbers
+name = input('Enter your name:')
+num1 = eval(input('Enter the first number:'))
+num2 = eval(input('Enter the second number:'))
+num3 = eval(input('Enter the third number:'))
+
+print(f'The average of {num1}, {num2}, and {num3} is {(num1 + num2 + num3) / 3:.2f}')
+
+name = input('Enter your name:')
+salary = int(input('Enter your salary:'))
+
+if salary >= 50000:
+   print ((f'{name}, you are eligible for a bonus'))     
+
+print('Done!')
+
+score = int(input('Enter your score:'))
+if score >= 80: 
+   print (f'Excellent pwrformance!')
+else:
+    print(f'Needs improvement.')
+
